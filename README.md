@@ -1,6 +1,6 @@
 Part 1: Overview and Objectives
 
-The objective is to create a Progressive Web Application (PWA) that functions as an e-commerce marketplace. This assessment should include key features for both customers and merchants, with a focus on performance and user experience. You have 7 days to complete this assessment, with additional consideration given for early completion.
+The objective is to create a Progressive Web Application (PWA) that functions as an e-commerce marketplace. This assessment should include key features for both customers and merchants, with a focus on performance and user experience. You have 2 days to complete this assessment, with additional consideration given for early completion.
 
 Part 2: Assessment Scope
 
@@ -8,7 +8,7 @@ The scope of this assessment is outlined as follows:
 
 - Fork this repository with your own github account.
 - E-commerce Marketplace PWA: Develop a simple Progressive Web Application with the essential functions of an e-commerce platform.
-- Timeframe: 7 days for assessment completion. Completing the assessment sooner is a plus.
+- Timeframe: 2 days for assessment completion. Completing the assessment sooner is a plus.
 
 Part 3: Frontend Development
 
